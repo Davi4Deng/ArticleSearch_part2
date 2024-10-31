@@ -2,11 +2,11 @@
 
 Course Link: [CodePath Android Course](https://courses.codepath.org/courses/and102/unit/5#!labs)
 
-Submitted by: Steven Curran
+Submitted by: **Shengfu Deng** <!-- Replace 'Your Name Here' with your actual name -->
 
 **NYT Article Search Pt 2** is an app designed to maintain functionality while offline by caching the latest data fetched from the NYT API, ensuring a smooth user experience even without network connectivity.
 
-Time spent: 2
+Time spent: **8** hours spent in total <!-- Replace 'X' with the number of hours you spent on this project -->
 
 ## Application Features
 
@@ -14,34 +14,34 @@ Time spent: 2
 
 The following **required** functionality is completed:
 
-- [X] (2 pts) **Most recently fetched data is stored locally in a database**
+- [x] (2 pts) **Most recently fetched data is stored locally in a database**
   - The app should cache the latest articles fetched from the NYT API in a local SQLite database using Room.
   - If the user has fetched data recently, those articles should be available offline.
   - Ensure old cached data is properly replaced with new data upon successful network fetches.
   - ![GIF showing database caching functionality](http://i.imgur.com/link/to/your/gif/file.gif) <!-- Replace this link with your actual image/GIF link -->
 
-- [X] (2 pts) **If user turns on airplane mode and closes and reopens app, old data from the database should be loaded**
+- [x] (2 pts) **If user turns on airplane mode and closes and reopens app, old data from the database should be loaded**
   - ![GIF showing offline mode functionality](http://i.imgur.com/link/to/your/gif/file.gif) <!-- Replace this link with your actual image/GIF link -->
 
 ### Stretch Features
 
 The following **stretch** functionality is implemented:
 
-- [X] (2 pts) **Add Swipe To Refresh to force a new network call to get new data**
+- [x] (2 pts) **Add Swipe To Refresh to force a new network call to get new data**
   - ![GIF showing Swipe to Refresh](http://i.imgur.com/link/to/your/gif/file.gif) <!-- Replace this link with your actual image/GIF link -->
 
-- [X] (2 pts) **Add setting toggle for user to create preference for caching data or not (Using Shared Preferences)**
+- [x] (2 pts) **Add setting toggle for user to create preference for caching data or not (Using Shared Preferences)**
   - ![GIF showing Shared Preferences for caching](http://i.imgur.com/link/to/your/gif/file.gif) <!-- Replace this link with your actual image/GIF link -->
 
-- [X] (+3 pts) **Implement a Search UI to filter current RecyclerView entries or fetch data from the search API with query**
+- [x] (+3 pts) **Implement a Search UI to filter current RecyclerView entries or fetch data from the search API with query**
   - ![GIF showing Search UI functionality](http://i.imgur.com/link/to/your/gif/file.gif) <!-- Replace this link with your actual image/GIF link -->
 
-- [X] (2 pts) **Listen to network connectivity changes and create a UI to let people know they are offline and automatically reload new data if connectivity returns**
+- [x] (2 pts) **Listen to network connectivity changes and create a UI to let people know they are offline and automatically reload new data if connectivity returns**
   - ![GIF showing network connectivity detection](http://i.imgur.com/link/to/your/gif/file.gif) <!-- Replace this link with your actual image/GIF link -->
 
 ## Notes
 
-I had a ton of trouble getting the search to revert back to the default, but It works well enough for the scope of the project. 
+Describe any challenges encountered while building the app. <!-- Replace this with your specific challenges and experiences -->
 
 ## Resources
 
@@ -55,7 +55,7 @@ I had a ton of trouble getting the search to revert back to the default, but It 
 ## License
 
 ```plaintext
-    Copyright [2024] [Steven Curran]
+    Copyright [20224] [Shengfu Deng]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
