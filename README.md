@@ -10,6 +10,8 @@ Time spent: **8** hours spent in total <!-- Replace 'X' with the number of hours
 
 ## Application Features
 
+![articlesearchpt2](https://github.com/user-attachments/assets/b3b06b19-63aa-4864-9f42-1a447631e800)
+
 ### Required Features
 
 The following **required** functionality is completed:
